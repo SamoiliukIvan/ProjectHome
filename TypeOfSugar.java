@@ -1,0 +1,5 @@
+
+
+enum TypeOfSugar {
+	SUGARCANE, SUGARBEET
+}
